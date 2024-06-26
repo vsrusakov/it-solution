@@ -14,4 +14,4 @@ pip install -r requirements.txt
 ```
 python runstring.py --text="скрипт работает!" --fps=30 --name="my video"
 ```
-создаст в текущем каталоге файл `my video.mp4`
+создаст в текущем каталоге файл `my video.mp4`.
